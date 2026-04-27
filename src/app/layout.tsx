@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CVCoach UK — AI-Powered CV Advisor for Students",
+  title: "CVCoach UK — Instant, Private CV Advisor for UK Students",
   description: "Upload your CV and get instant, expert advice tailored to UK graduate roles. ATS scoring, PII detection, interview prep and job board links — free, private, and built for UK students.",
   keywords: "CV advice UK, graduate CV, ATS score, UK student jobs, CV analyser",
 };
